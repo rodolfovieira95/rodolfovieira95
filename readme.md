@@ -5,7 +5,7 @@
 ## About Me
 :books: Bachelor degree in Control and Automation Engineering
 
-:computer: Currently working as Designer and Fullstack in IoT Platform
+:computer: Currently working as Designer and Full Stack in an IoT Platform
 
 :bulb: IoT lover and developer
 
