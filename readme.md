@@ -41,6 +41,7 @@
 [<img width="36px" alt="XCode" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/xcode.png">](https://developer.apple.com/xcode/)&nbsp;
 [<img width="36px" alt="Android Studio" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/androidstudio.png">](https://developer.android.com/studio)&nbsp;
 [<img width="36px" alt="Postman" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/postman.png">](https://www.postman.com)&nbsp;
+[<img width="36px" alt="Figma" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/figma.png">](https://www.figma.com)&nbsp;
 [<img width="36px" alt="React Navigation" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/reactnativenavigation.svg">](https://reactnavigation.org)&nbsp;
 [<img width="36px" alt="Styled Components" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/styled-components.png">](https://styled-components.com)&nbsp;
 [<img width="36px" alt="GitLens" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/gitlens.png">](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)&nbsp;
