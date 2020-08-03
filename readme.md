@@ -54,6 +54,12 @@
 <img width="36px" alt="Windows" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/windows.svg">&nbsp;
 
 
+### **Other Tools**
+[<img width="36px" alt="Adobe Photoshop" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/photoshop.png">](https://www.adobe.com/br/products/photoshop.html)&nbsp;
+[<img width="36px" alt="Adobe Premiere" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/premiere.png">](https://www.adobe.com/br/products/premiere.html)&nbsp;
+[<img width="36px" alt="Adobe Audition" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/audition.png">](https://www.adobe.com/br/products/audition.html)&nbsp;
+[<img width="36px" alt="Ableton Live" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/ableton.png">](https://www.ableton.com)&nbsp;
+[<img width="36px" alt="Solidworks" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/solidworks.png">](https://www.solidworks.com/pt-br)&nbsp;
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodolfovieira95)](https://github.com/anuraghazra/github-readme-stats)
