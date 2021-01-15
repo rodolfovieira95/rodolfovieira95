@@ -5,7 +5,9 @@
 ## About Me
 :books: Bachelor degree in Control and Automation Engineering
 
-:computer: Currently working as Designer and Full Stack in an IoT Platform
+:computer: Worked as Designer and Full Stack in an IoT Platform
+
+:computer: Currently working as Front-End in an Credit Provider Platform.
 
 :bulb: IoT lover and developer
 
@@ -26,10 +28,10 @@
 [<img width="36px" alt="Redux" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/redux.svg">](https://redux.js.org)&nbsp;
 [<img width="36px" alt="Python" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/python.svg">](https://www.python.org)&nbsp;
 <img width="36px" alt="C" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/c.png">&nbsp;
+[<img width="36px" alt="TypeScript" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/typescript.svg">](https://www.typescriptlang.org)&nbsp;
 
 ### **Currently Learning**
 
-[<img width="36px" alt="TypeScript" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/typescript.svg">](https://www.typescriptlang.org)&nbsp;
 [<img width="36px" alt="NodeJs" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/nodejs.svg">](https://nodejs.org/en/)&nbsp;
 [<img width="36px" alt="Electron" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/electron.svg">](https://www.electronjs.org)&nbsp;
 [<img width="36px" alt="Knex" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/knex.svg">](http://knexjs.org)&nbsp;
