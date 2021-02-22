@@ -36,6 +36,7 @@
 [<img width="36px" alt="Electron" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/electron.svg">](https://www.electronjs.org)&nbsp;
 [<img width="36px" alt="Knex" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/knex.svg">](http://knexjs.org)&nbsp;
 [<img width="36px" alt="Swift UI" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/swiftui.png">](https://developer.apple.com/xcode/swiftui/)&nbsp;
+[<img width="36px" alt="Go Language" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/golang.png">](https://golang.org)&nbsp;
 
 ### **Favourite Tools/Extensions/Dependencies**
 
