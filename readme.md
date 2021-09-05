@@ -32,8 +32,8 @@
 <img width="36px" alt="C" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/c.png">&nbsp;
 [<img width="36px" alt="TypeScript" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/typescript.svg">](https://www.typescriptlang.org)&nbsp;
 [<img width="36px" alt="NodeJs" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/nodejs.svg">](https://nodejs.org/en/)&nbsp;
-[<img width="36px" alt="NodeJs" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/relay.svg">](https://relay.dev/)&nbsp;
-[<img width="36px" alt="NodeJs" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/graphql.png">](https://graphql.org/)&nbsp;
+[<img width="36px" alt="Relay" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/relay.svg">](https://relay.dev/)&nbsp;
+[<img width="36px" alt="GraphQl" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/graphql.png">](https://graphql.org/)&nbsp;
 
 ### **Currently Learning**
 
