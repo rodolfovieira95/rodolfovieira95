@@ -8,7 +8,9 @@
 
 :computer: Worked as Designer and Full Stack in an IoT Platform
 
-:computer: Currently working as Front-End in an Credit Provider Platform.
+:computer: Worked as Front-End in an Credit Provider Platform.
+
+:computer: Currently working as Front-End in an Education Platform.
 
 :bulb: IoT lover and developer
 
@@ -34,6 +36,8 @@
 [<img width="36px" alt="NodeJs" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/nodejs.svg">](https://nodejs.org/en/)&nbsp;
 [<img width="36px" alt="Relay" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/relay.svg">](https://relay.dev/)&nbsp;
 [<img width="36px" alt="GraphQl" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/graphql.png">](https://graphql.org/)&nbsp;
+[<img width="36px" alt="Apollo" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/apollo.png">](https://www.apollographql.com/)&nbsp;
+[<img width="36px" alt="NextJS" src="https://github.com/rodolfovieira95/rodolfovieira95/blob/master/assets/images/nextjs.png">](https://nextjs.org/)&nbsp;
 
 ### **Currently Learning**
 
