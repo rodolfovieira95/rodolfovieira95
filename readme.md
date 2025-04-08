@@ -10,7 +10,7 @@
 
 :computer: Worked as Front-End in an Credit Provider Platform.
 
-:computer: Currently working as Front-End in an Education Platform.
+:computer: Currently working as Sr. Software Engineer in an Education Platform.
 
 :bulb: IoT lover and developer
 
