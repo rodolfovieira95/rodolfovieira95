@@ -69,4 +69,4 @@
 
 Open to **Tech Lead opportunities** and conversations about frontend architecture, IoT, or building products that matter.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolfovieira95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafvieira95) 
